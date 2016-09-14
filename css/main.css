@@ -1,0 +1,59 @@
+body{
+    padding-left: 20px;
+}
+
+.pwdnHeader
+{
+    padding-left:0px;
+}
+
+.mainSection
+{
+    padding-top: 20px;
+}
+
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+li.list-group-item
+{
+    border-left:0px;
+    border-right:0px;
+}
+
+li.list-group-item:first-child {
+  border-top: 0px;
+}
+
+.badgeContiner
+{
+    float: right;
+}
+
+.badgeAnswered
+{
+    background-color: green;
+}
+
+.tagList
+{
+    float: left; 
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.stat
+{
+    margin-left: 220px; 
+    text-align: right;
+}
